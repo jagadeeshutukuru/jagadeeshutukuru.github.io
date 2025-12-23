@@ -1,0 +1,28 @@
+theme: jekyll-theme-minimal
+title: Jagadeesh Utukuru
+description: Data Analytics Professional
+show_downloads: false
+```
+
+4. Click **"Commit changes"** (green button at bottom)
+5. Click **"Commit changes"** again in the popup
+
+---
+
+### **2. Enable GitHub Pages**
+
+1. In your repository, click on **"Settings"** (top menu bar)
+2. Scroll down the left sidebar and click **"Pages"**
+3. Under **"Source"**, select:
+   - Branch: **main** (or **master** if that's your default)
+   - Folder: **/ (root)**
+4. Click **"Save"**
+5. Wait 1-2 minutes for GitHub to build your site
+
+---
+
+### **3. View Your Live Website!**
+
+Your site will be available at:
+```
+https://jagadeeshutukuru.github.io
